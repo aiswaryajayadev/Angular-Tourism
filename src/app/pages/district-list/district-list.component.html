@@ -1,0 +1,15 @@
+<app-nav-bar></app-nav-bar>
+<div class="c-container">
+    @for (item of districts; track item.id) 
+    {
+       
+        <div class="col">
+        <app-card [title]="item.name" [description]="item.description" [src]="item.image[0]" [id]="item.id"></app-card>
+        </div>
+    
+    
+    }
+    </div>
+
+
+<app-footer></app-footer>

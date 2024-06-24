@@ -1,0 +1,174 @@
+{  
+    "districts": [
+      {
+        "id": 0,
+        "name": "Thiruvananthapuram",
+        "description": "Thiruvananthapuram, the capital city of Kerala, is known for its historic landmarks and beautiful beaches.",
+        "text1":"Thiruvananthapuram, is the capital city of Kerala, a southern state in India known for its lush landscapes and vibrant culture. Thiruvananthapuram, often referred to by its colonial name, Trivandrum, is a bustling urban center that blends historical significance with modernity. The city is renowned for its impressive architectural landmarks, including the iconic Padmanabhaswamy Temple, which is famous for its intricate designs and immense wealth. The temple, dedicated to Lord Vishnu, is a significant pilgrimage site and a symbol of Kerala's rich spiritual heritage. Thiruvananthapuram also houses several museums, art galleries, and historical monuments, making it a cultural hub in the region.",
+        "text2":"In addition to its historical and cultural significance, Thiruvananthapuram is a major educational and technological center. It is home to prestigious institutions such as the University of Kerala and the Indian Institute of Space Science and Technology (IIST). The city is also the site of the Technopark, one of India's largest IT parks, which has positioned Thiruvananthapuram as a key player in the country's information technology sector. This blend of tradition and modernity, along with its scenic beauty and strategic importance, makes Thiruvananthapuram a unique and dynamic city in Kerala.",
+        "image": [
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/TVM_Padmanabhaswamy_Temple.jpg/1280px-TVM_Padmanabhaswamy_Temple.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/e/eb/Kerala_Legislative_Assembly%2C_Thiruvananthapuram.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kerala_Government_Secretariat%2C_Thiruvananthapuram%2C_Kerala%2C_India.jpg/1024px-Kerala_Government_Secretariat%2C_Thiruvananthapuram%2C_Kerala%2C_India.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Lulumalltrivandrum.jpg/1920px-Lulumalltrivandrum.jpg"
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Kollam",
+        "description": "Kollam, known for its cashew industry, is a coastal city with a rich history and scenic backwaters.",
+        "text1":"Kollam, a picturesque city in the southern Indian state of Kerala, is known for its stunning natural beauty and rich cultural heritage. Nestled on the banks of the Ashtamudi Lake, Kollam is often referred to as the 'Gateway to the Backwaters' of Kerala. The city boasts a unique blend of history and modernity, with its origins dating back to ancient times when it was a bustling port town in the spice trade. Today, visitors can explore the remnants of its colonial past, including historic churches, temples, and forts, while also enjoying contemporary attractions like serene beaches and vibrant markets.",
+        "text2":"One of Kollam's most notable features is its extensive network of waterways, which offer breathtaking boat tours through lush, green landscapes teeming with diverse flora and fauna. The annual Kollam Pooram festival, held at the Asramam Maidan, showcases the region's vibrant traditions, featuring colorful processions, traditional music, and dance performances. The city is also a hub for the cashew industry, with numerous processing units contributing significantly to the local economy. With its blend of scenic beauty, cultural richness, and economic vitality, Kollam is a fascinating destination that captures the essence of Kerala's charm.",
+        "image": [
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kollam_%2876%29.JPG/1024px-Kollam_%2876%29.JPG",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Punalur_suspension_bridge_1877.jpg/1280px-Punalur_suspension_bridge_1877.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Kollam_beach_%2C_Kerala%2CIndia.jpg/1024px-Kollam_beach_%2C_Kerala%2CIndia.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/1/1e/Leuchtturm_in_Kollam.jpg"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Pathanamthitta",
+        "description": "Pathanamthitta is famous for its religious sites, including the Sabarimala temple, and its lush green landscapes.",
+        "text1":"Pathanamthitta is a picturesque district located in the southern part of the Indian state of Kerala. Known for its lush greenery and serene landscapes, it is often referred to as the 'Headquarters of Pilgrimage Tourism' due to its proximity to several significant religious sites. The most prominent among them is the Sabarimala Temple, a renowned Hindu pilgrimage center dedicated to Lord Ayyappa, attracting millions of devotees annually. The district is crisscrossed by numerous rivers, including the Pamba, Achankovil, and Manimala, which not only enhance its natural beauty but also support a rich biodiversity. The Western Ghats, with their dense forests and diverse wildlife, form a stunning backdrop to the district.",
+        "text2":"In addition to its spiritual significance, Pathanamthitta boasts a vibrant cultural heritage and a rich history. Traditional art forms like Kathakali and classical music thrive here, reflecting the district's deep-rooted cultural ethos. Pathanamthitta also hosts various festivals and fairs, with the Aranmula Boat Race being a highlight, drawing visitors from all over the country. The economy is primarily agrarian, with rubber, coconut, and spices being the main crops. The district's commitment to education and healthcare further contributes to its high Human Development Index. Overall, Pathanamthitta is a harmonious blend of nature, culture, and spirituality, making it a unique and captivating destination in Kerala.",
+        "image": [
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Pathanamthitta_town.jpg/1920px-Pathanamthitta_town.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Gavi%2C_Kerala.jpg/1280px-Gavi%2C_Kerala.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Perunthenaruvi_Pathanamthitta_%2810%29.jpg/300px-Perunthenaruvi_Pathanamthitta_%2810%29.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Sabarimala_temple_during_Periyar_butterfly_survey_at_Sabarimala%2C_2014_%2820%29.jpg/1280px-Sabarimala_temple_during_Periyar_butterfly_survey_at_Sabarimala%2C_2014_%2820%29.jpg"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Alappuzha",
+        "description": "Alappuzha, often called the 'Venice of the East', is known for its houseboat cruises and vast network of inland canals.",
+        "text1":"Alappuzha, often referred to as Alleppey, is a picturesque town in the Indian state of Kerala. Known as the 'Venice of the East', Alappuzha is renowned for its intricate network of backwaters, tranquil canals, and vibrant houseboats that offer an enchanting experience to visitors. The town's rich tapestry of waterways, interspersed with lush green paddy fields and coconut groves, creates a serene and scenic landscape that attracts tourists from all over the world. The annual Nehru Trophy Boat Race, held on the Punnamada Lake, is a major highlight, showcasing the region's unique culture and the thrilling spectacle of traditional snake boat races.",
+        "text2":"In addition to its natural beauty, Alappuzha is also steeped in history and culture. The town is dotted with colonial-era buildings, ancient temples, and quaint churches that reflect its diverse heritage. Alappuzha Beach, with its historic pier and lighthouse, provides a perfect spot for relaxation and picturesque sunsets. The local cuisine, dominated by fresh seafood and traditional Kerala dishes, adds to the allure of the town. Whether it's a peaceful boat ride through the backwaters, a leisurely stroll along the beach, or exploring the vibrant local markets, Alappuzha offers a perfect blend of nature, culture, and history, making it a must-visit destination in Kerala.",
+        "image": [
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Alappuzha_Boat_Beauty_W.jpg/1280px-Alappuzha_Boat_Beauty_W.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Sun_rise_view_Alleppey_backwaters_%2C_Kerala_06.jpg/1024px-Sun_rise_view_Alleppey_backwaters_%2C_Kerala_06.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Alleppey_beach.jpg/1280px-Alleppey_beach.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AC_Road_SH-11.JPG/1024px-AC_Road_SH-11.JPG"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Kottayam",
+        "description": "Kottayam is known for its large rubber plantations and as a center for literature and education in Kerala.",
+        "text1":"Kottayam is a scenic district located in the southwestern part of Kerala. It is often referred to as the 'Land of Letters, Lakes, and Latex' due to its significant contributions to literature, numerous lakes, and extensive rubber plantations. The district is home to many prominent educational institutions, including the Mahatma Gandhi University, which underscores its reputation as an educational hub. Kottayam's landscape is dotted with beautiful churches, including the St. Mary's Orthodox Church in Cheriapally and the Valiyapally, showcasing its rich Christian heritage.",
+        "text2":"In addition to its educational and religious landmarks, Kottayam is known for its lush landscapes and serene backwaters. The picturesque Vembanad Lake offers opportunities for houseboat cruises and fishing, while the nearby Kumarakom Bird Sanctuary is a haven for birdwatchers, with a variety of migratory birds. The district's economy is bolstered by agriculture, particularly rubber and spices. With its blend of natural beauty, cultural richness, and educational prominence, Kottayam is a unique and attractive destination in Kerala.",
+        "image": ["https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRWUVgJN7R0hYffH-KdmxqcvJrTpIlK9O5WIyYKFn4Yj1D-9wxRYc6JW5m25PJecqNT7cC_5EpgpBWAMqbDXnxRnFCBsslCSu9klEAvow",
+      "https://live.staticflickr.com/610/20221218674_6f48181a55_b.jpg",
+    "https://keralatravels.com/userfiles/1477889213_kumarakom.jpg",
+  "https://cmscollege.ac.in/wp-content/uploads/2021/10/maxresdefault.jpg"]
+      },
+      {
+        "id": 5,
+        "name": "Idukki",
+        "description": "Idukki is famous for its hill stations, wildlife sanctuaries, and the Idukki Arch Dam, one of the highest arch dams in Asia.",
+        "text1":"Idukki is a stunning district located in the central part of Kerala, known for its lush green hills, sprawling tea plantations, and dense forests. The district is a haven for nature lovers and adventure enthusiasts, offering numerous trekking trails, scenic viewpoints, and wildlife sanctuaries. The Idukki Wildlife Sanctuary and the Eravikulam National Park are home to diverse flora and fauna, including the endangered Nilgiri Tahr. The hill stations of Munnar and Thekkady are popular tourist destinations, attracting visitors with their cool climate and breathtaking landscapes.",
+        "text2":"One of the most remarkable features of Idukki is the Idukki Arch Dam, which stands tall as one of the highest arch dams in Asia. This engineering marvel, along with the Cheruthoni and Kulamavu dams, forms a significant hydroelectric project that powers much of the state. The district is also known for its spice plantations, particularly cardamom, pepper, and cinnamon. Idukki's unique blend of natural beauty, wildlife, and technological achievements make it a captivating destination in Kerala, offering a perfect escape into nature.",
+        "image": ["https://keralatourism.travel/images/destinations/places-to-visit/idukki/munnar-idukki-kerala-tourism-entry-fee-timings-holidays-reviews-small.jpg",
+      "https://www.cityairnews.com/uploads/images/image-750x-2022-08-07-06:24:28pm-62efb604187bc.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/39/7f/0f/cheeyappara-waterfalls.jpg?w=500&h=-1&s=1",
+  "https://www.justkerala.in/wp-content/themes/justkerala/thumbimg.php?src=wp-content/uploads/2012/11/Idukki-Lake.jpg&w=735&h=350"]
+      },
+      {
+        "id": 6,
+        "name": "Ernakulam",
+        "description": "Ernakulam is a bustling commercial hub, known for its modern infrastructure, shopping malls, and the historical city of Kochi.",
+        "text1":"Ernakulam is a vibrant district in Kerala, often regarded as the commercial capital of the state. The district is home to Kochi, a historic port city that has evolved into a bustling metropolitan area. Known for its modern infrastructure, Ernakulam boasts numerous shopping malls, luxury hotels, and a thriving business environment. The district's strategic location along the Arabian Sea has made it a significant trading hub for centuries, with influences from Portuguese, Dutch, and British colonial periods visible in its architecture and culture.",
+        "text2":"In addition to its commercial significance, Ernakulam is rich in cultural and historical heritage. The Fort Kochi area is a major tourist attraction, with its quaint streets, colonial buildings, and the famous Chinese fishing nets. The district is also home to the Kerala Folklore Museum and the Indo-Portuguese Museum, which showcase the region's diverse cultural history. The nearby Marine Drive offers a scenic waterfront promenade, perfect for leisurely walks. Ernakulam's unique blend of tradition and modernity, along with its cultural diversity, makes it a dynamic and appealing destination in Kerala.",
+        "image": ["https://spb.kerala.gov.in/sites/default/files/styles/inner_banner_image_850x460/public/2020-09/4_1.jpg?itok=QdkvH5Ma",
+      "https://cdn.bluebirdtravels.in/wp-content/uploads/uncategorized/Fort-Kochi-Beach-01-scaled-1140x530.jpg",
+    "https://www.keralatourism.org/images/microsites/kochi/kochi.jpg",
+  "https://live.staticflickr.com/1607/23980157950_def7d62180_b.jpg"]
+      },
+      {
+        "id": 7,
+        "name": "Thrissur",
+        "description": "Thrissur is the cultural capital of Kerala, famous for its festivals, especially the Thrissur Pooram, and rich cultural heritage.",
+        "text1":"Thrissur, known as the cultural capital of Kerala, is a district steeped in tradition and vibrant festivities. The city of Thrissur is famous for the annual Thrissur Pooram, one of the most spectacular temple festivals in South India, featuring a grand display of caparisoned elephants, traditional music, and elaborate fireworks. The Vadakkunnathan Temple, a UNESCO World Heritage Site, stands as a testament to the district's rich spiritual and architectural heritage. Thrissur is also home to several other significant temples, churches, and mosques, reflecting its diverse cultural landscape.",
+        "text2":"In addition to its religious and cultural significance, Thrissur is a hub for arts and education. The Kerala Kalamandalam, a renowned center for classical performing arts, is located here, promoting traditional art forms like Kathakali, Mohiniyattam, and Koodiyattam. The district also boasts several museums, including the Archaeological Museum and the Thrissur Zoo and State Museum, offering insights into Kerala's history and natural heritage. Thrissur's vibrant cultural scene, combined with its educational institutions and scenic beauty, make it a captivating destination in Kerala.",
+        "image": ["https://cdn.britannica.com/79/144379-050-8BC20473/festival-Vadakkumnathan-Temple-Thrissur-India-Kerala.jpg",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/4b/a2/1c/athirapally-falls-in.jpg?w=400&h=300&s=1",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/66/41/66/snehatheeram-beach.jpg?w=600&h=400&s=1",
+  "https://www.trawell.in/admin/images/upload/153110127Vadakumnathan_Temple_Main.jpg"]
+      },
+      {
+        "id": 8,
+        "name": "Palakkad",
+        "description": "Palakkad is known for its extensive paddy fields, and the Palakkad Fort, and serves as a gateway to Kerala from Tamil Nadu.",
+        "text1":"Palakkad, often referred to as the 'Gateway of Kerala', is a district known for its rich agricultural landscape and historical significance. The district is characterized by vast expanses of paddy fields, lush green hills, and numerous rivers, making it an important agricultural hub in Kerala. The Palakkad Gap, a natural pass in the Western Ghats, facilitates connectivity between Kerala and Tamil Nadu, enhancing its strategic importance. The Palakkad Fort, built by Hyder Ali in the 18th century, stands as a prominent historical landmark, reflecting the region's storied past.",
+        "text2":"In addition to its agricultural and historical significance, Palakkad is renowned for its cultural heritage. The district is home to traditional art forms such as Kathakali and Carnatic music, with several cultural centers and festivals celebrating these traditions. The Malampuzha Garden and Dam, a popular tourist attraction, offers scenic views and recreational activities. The Silent Valley National Park, with its rich biodiversity and pristine environment, attracts nature enthusiasts and researchers. Palakkad's blend of natural beauty, cultural richness, and historical landmarks make it a unique and fascinating destination in Kerala.",
+        "image": ["https://upload.wikimedia.org/wikipedia/commons/b/b0/Palakkad_Fort_5.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-c/1280x250/0e/7c/99/42/img-5743-largejpg.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuYrxPsDxbUwJJSmPD7i7J8KehW3qGkk7jw&s",
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcuZTJUwTchuPTiTHsKH7kRJ8vApq_Ggp6Zw&s"]
+      },
+      {
+        "id": 9,
+        "name": "Malappuram",
+        "description": "Malappuram is known for its cultural and historical significance, with rich traditions and a diverse population.",
+        "text1":"Malappuram is a district in the northern part of Kerala, known for its cultural richness and historical importance. The district has a diverse population, with a harmonious blend of different communities and traditions. Malappuram is home to several important historical sites, including the Thirunavaya Temple, which is a prominent center for Vedic learning, and the Kottakkunnu Fort, offering panoramic views of the surrounding landscape. The district is also known for its role in the Indian freedom struggle, with several landmarks commemorating the efforts of freedom fighters from the region.",
+        "text2":"In addition to its historical significance, Malappuram is known for its vibrant cultural scene. The district hosts several traditional festivals, including the annual Kottakkal Pooram and the Malappuram Nercha, which attract visitors from across the state. Malappuram is also a hub for traditional medicine, with the Kottakkal Arya Vaidya Sala being a renowned center for Ayurvedic treatments. The district's natural beauty, with its lush green hills, rivers, and backwaters, adds to its charm. Malappuram's unique blend of history, culture, and natural beauty makes it a captivating destination in Kerala.",
+        "image": ["https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Malappuram_DownHill_Aerial_View.jpg/1920px-Malappuram_DownHill_Aerial_View.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e8/Areekode_in_Malappuram_District.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/f/f9/Malappuram_District_Sports_Complex_Stadium.jpg",
+  "https://img.onmanorama.com/content/dam/mm/en/travel/getting-around-kerala/images/2018/5/10/malappuram-main.jpg"]
+      },
+      {
+        "id": 10,
+        "name": "Kozhikode",
+        "description": "Kozhikode, also known as Calicut, is famous for its role in the spice trade and its beautiful beaches.",
+        "text1":"Kozhikode, historically known as Calicut, is a district in northern Kerala renowned for its rich history, cultural heritage, and natural beauty. The district played a significant role in the spice trade, attracting traders from Arabia, China, and Europe. This historical significance is reflected in landmarks such as the Kozhikode Beach, where Vasco da Gama first landed in India, and the ancient Tali Temple. Kozhikode is also known for its vibrant cultural scene, with traditional art forms like Theyyam, Kalaripayattu, and the Malabar Mahotsavam festival showcasing the region's diverse traditions.",
+        "text2":"In addition to its historical and cultural importance, Kozhikode is known for its scenic beauty and culinary delights. The district's coastline features beautiful beaches like Kappad Beach and Beypore Beach, perfect for relaxation and water activities. Kozhikode is also famous for its unique cuisine, particularly the delectable Malabar biryani and Kozhikode halwa. The district's bustling markets, such as the SM Street, offer a glimpse into the local way of life. With its blend of history, culture, and natural beauty, Kozhikode is a must-visit destination in Kerala.",
+        "image": ["https://pyt-blogs.imgix.net/2020/07/photo-1580046345567-8b5d44d8cbab.jpg?auto=format&ixlib=php-3.3.0",
+      "https://static.toiimg.com/photo/72181280.cms",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTszJbNaqm0yQjtT8BJiiMEaPl8ec7AkTklv69qlmTLq2sHB_4mx1CE1ZY1TssZ6oW61PU&usqp=CAU",
+  "https://miro.medium.com/v2/resize:fit:1400/1*naN5zk6GOAZEvIbx8QMy5Q.jpeg"]
+      },
+      {
+        "id": 11,
+        "name": "Wayanad",
+        "description": "Wayanad is known for its stunning natural beauty, with waterfalls, caves, and wildlife sanctuaries.",
+        "text1":"Wayanad is a picturesque district in the northern part of Kerala, renowned for its stunning natural beauty and rich biodiversity. The district is characterized by its lush green hills, dense forests, and scenic landscapes, making it a popular destination for nature lovers and adventure enthusiasts. Wayanad is home to several breathtaking waterfalls, including Meenmutty, Soochipara, and Kanthanpara, offering spectacular views and serene surroundings. The Edakkal Caves, with their ancient petroglyphs, provide a fascinating glimpse into the region's prehistoric past.",
+        "text2":"In addition to its natural attractions, Wayanad boasts a rich cultural heritage and diverse wildlife. The Wayanad Wildlife Sanctuary is a haven for animal lovers, with species like elephants, tigers, and various birds. The district is also known for its tribal communities, who have preserved their unique customs and traditions over the centuries. Wayanad's economy is primarily agrarian, with coffee, tea, and spices being the main crops. The district's cool climate and scenic beauty make it a perfect retreat for those seeking peace and tranquility. Overall, Wayanad is a captivating destination that offers a harmonious blend of nature, culture, and adventure.",
+        "image": ["https://www.keralatourism.org/images/microsites/wayanad/waynadu-1024x768.jpg",
+      "https://img.onmanorama.com/content/dam/mm/en/videos/travel/kerala/images/2023/11/13/wayanad-tourism-plantation-article%20size-1248%20x%20650.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuo9hfxMNAqfecHAnvllCHivROg7JDu1hacg&s",
+      "https://clubmahindra.gumlet.io/blog/media/section_images/travel-gui-389f770e8e5e59c.jpg?w=376&dpr=2.6"
+    ]
+      },
+      {
+        "id": 12,
+        "name": "Kannur",
+        "description": "Kannur is famous for its pristine beaches, handloom industry, and the traditional art form of Theyyam.",
+        "text1":"Kannur, a coastal district in northern Kerala, is known for its pristine beaches, vibrant culture, and rich history. The district's coastline features beautiful beaches like Payyambalam Beach, Muzhappilangad Drive-in Beach, and Thottada Beach, offering stunning views and a serene atmosphere. Kannur is also renowned for its traditional handloom industry, producing high-quality fabrics that are in demand both locally and internationally. The district's historical significance is evident in landmarks like the St. Angelo Fort and the Arakkal Museum, which reflect its colonial past and maritime heritage.",
+        "text2":"In addition to its natural and historical attractions, Kannur is famous for its unique cultural traditions. The traditional art form of Theyyam, with its vibrant costumes, elaborate makeup, and dramatic performances, is a major cultural highlight. Kannur is also known for its folk arts and music, with various festivals celebrating the district's rich cultural heritage. The district's lush green landscapes, with their coconut groves and paddy fields, add to its charm. Kannur's blend of natural beauty, cultural richness, and historical significance makes it a fascinating destination in Kerala.",
+        "image": ["https://static.toiimg.com/thumb/50945306/Kannur.jpg?width=1200&height=900",
+      "https://www.keralatourism.org/images/enchanting_kerala/large/kannur_fort20200908052017_1019_1.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kannur_Lighthouse.jpg/1200px-Kannur_Lighthouse.jpg",
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTprhB_74OZ2Yi8rajkk02j-MexEVObRXXe_V8NgGlZuepjPXpzG-or7hK-7I27zhoHy1o&usqp=CAU"]
+      },
+      {
+        "id": 13,
+        "name": "Kasaragod",
+        "description": "Kasaragod is known for its coir and handloom industries, historical forts, and diverse cultural heritage.",
+        "text1":"Kasaragod is the northernmost district of Kerala, known for its diverse cultural heritage and scenic landscapes. The district is famous for its coir and handloom industries, producing high-quality products that contribute significantly to the local economy. Kasaragod is home to several historical forts, including the Bekal Fort, which is one of the largest and best-preserved forts in Kerala, offering panoramic views of the Arabian Sea. The district's rich cultural tapestry is reflected in its various languages, traditions, and festivals, showcasing a harmonious blend of different communities.",
+        "text2":"In addition to its cultural and historical significance, Kasaragod boasts stunning natural beauty. The district's coastline features beautiful beaches like Bekal Beach and Kappil Beach, perfect for relaxation and water activities. The Western Ghats, with their dense forests and diverse wildlife, form a picturesque backdrop to the district. Kasaragod is also known for its unique Theyyam performances, a traditional ritualistic art form that is deeply rooted in the region's culture. With its blend of historical landmarks, cultural diversity, and natural beauty, Kasaragod is a captivating destination in Kerala.",
+        "image": ["https://www.kerala.com/userfiles/1548911996_kasaragod.jpg",
+      "https://keralatourism.travel/images/destinations/headers/kasargod-kerala-tourism-entry-fee-timings-holidays-reviews-header.jpg",
+    "https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/chembarika-beach-kasargod-rajesh-vijayarajan-photography.jpg",
+  "https://www.hillstationboss.com/wp-content/uploads/2016/10/ranipuram-hill-station.jpg"]
+      }
+    ]
+  ,
+  "keralaImages":[
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/DR0071DSC_9245.jpg/1280px-DR0071DSC_9245.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/7/74/Container_terminal.JPG",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Alappuzha_loves_Wikimedia_IMG_7698.JPG/1280px-Alappuzha_loves_Wikimedia_IMG_7698.JPG",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/FORT_KOCHI_BEACH_SUNSET%2CKERALA_-_panoramio_%282%29.jpg/1024px-FORT_KOCHI_BEACH_SUNSET%2CKERALA_-_panoramio_%282%29.jpg"
+  ]
+}

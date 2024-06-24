@@ -1,0 +1,33 @@
+<app-nav-bar></app-nav-bar>
+<div class="body">
+    <div class="cover-pic">
+      <app-carousel [tag]="tag"></app-carousel>
+       
+
+    </div>
+
+    <div class="About">
+        <div class="row">
+            <div class="column">
+              <img src="{{districts[id].image[2]}}" alt="Image 1">              
+            </div>
+            <div class="column">
+              <p>{{districts[id].text1}}</p>
+            </div>
+          </div>
+        
+          <div class="row">
+            <div class="column">
+              <p>{{districts[id].text2}}</p>
+            </div>
+            <div class="column">
+              <img src="{{districts[id].image[3]}}" alt="Image 3">              
+            </div>
+          </div>
+        
+         
+    </div>
+
+</div>
+
+<app-footer></app-footer>

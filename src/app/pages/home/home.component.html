@@ -1,0 +1,20 @@
+<app-nav-bar></app-nav-bar>
+
+<div class="body">
+<app-carousel [tag]="tag"></app-carousel>
+<div class="c-container">
+@for (item of districts; track item.id) 
+{
+   
+    <div class="col">
+       
+    <app-card [id]="item.id" [title]="item.name" [description]="item.description" [src]="item.image[0]" ></app-card>
+    </div>
+
+
+}
+</div>
+</div>
+<app-footer></app-footer>
+
+

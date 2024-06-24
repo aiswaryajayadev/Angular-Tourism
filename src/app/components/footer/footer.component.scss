@@ -1,0 +1,59 @@
+.footer{
+    background: linear-gradient(144deg, #5f8ccf , #3eccd3 50%,#6cd6aa);
+    align-items: stretch;
+    box-sizing: border-box;
+    margin: 0;
+    padding:0;
+    color:#fff;   
+    position:relative;
+    
+    bottom: 0; 
+    
+}
+
+.footer input{
+    border-radius: 3px;
+
+
+}
+.send-icon{
+    width:20px;
+     height:20px;
+     margin-left: 5px;
+}
+.footer-div{
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    padding: 40px 60px 0;
+    column-gap: 20px;
+}
+.keralaLogo{
+    margin-top: 20px;
+    width: 120px;
+    height: 80px;
+}
+.footer-social-icons{ 
+    
+    margin-top: 40px;
+    width: 100%;
+    display: flex;
+    color: #fff;
+    justify-content:space-around;
+    align-items: center;
+    font-size: 13px;
+}
+.footer-copyright{
+    border-top: 1px solid #454d5e;
+    padding: 25px 0;
+    margin-top: 40px;
+    width: 100%;
+    display: flex;
+    color: #5d5c5c;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 13px;
+}
+
+
+
+
